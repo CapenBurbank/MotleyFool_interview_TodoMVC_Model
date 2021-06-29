@@ -104,7 +104,7 @@ priority property value.
 
 <br>
 
-Honestly, I'm not exactly sure what my 'style' of coding is or if I have one. However I do know that I love organization and consistency(probably from the years  
+Honestly, I'm not exactly sure what my 'style' of coding is or if I have one. However I do know that I love organization and consistency(probably from the years
 as a pastry chef haha!).  
 But when I read through the original sourcec code, and thought of a plan on how to implement the priority feature. I spent some time reading through all the  
 files in the `src` folder, and wanted to have a good understanding of how this MVC worked. Once I had a good understanding of the application, I wrote my  
