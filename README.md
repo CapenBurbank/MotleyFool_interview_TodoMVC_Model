@@ -45,9 +45,9 @@ The todo items you enter, are objects sent to local storage in your browser and 
 <br>
 <br>
 
-`item {
+```item {
 
   }
 
-`
+```
 
