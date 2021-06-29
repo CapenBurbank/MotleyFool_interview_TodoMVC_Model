@@ -113,17 +113,13 @@ My goal was to add my code into the various files, and while reading through it,
 publish date on github! I believe I truly achieved that, and I would definitely say that's what makes this code unique for me!
 
 <br>
-<br>
+
 
 ## Possible Areas of Improvement
 
 <br>
-<br>
 
-
-
-
-
+I'm definitely happy with the implementation of my features, however, I think I could definitely build on top of them. For example, it's nice that users have the ability to choose priority of an item, and get a list organized by their urgency, unfortunately the user currently doesn't have the ability to remove the priority of an item. So if you did not want to use the priority feature, and you accidentally set the priority of an item, you would not be able to remove it, and people may have the preference of not wanting to have priority set. So I definitely beilieve that I could improve upon that functionality of the priority features.
 
 
 
