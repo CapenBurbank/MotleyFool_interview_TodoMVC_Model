@@ -1,7 +1,9 @@
 ## Capen Burbank, TodoMVC implemented with Vanilla-ES6
 
 > Link to original code: https://todomvc.com/examples/vanilla-es6/ 
+
 <br>
+
 > Link to source code on github: https://github.com/tastejs/todomvc/tree/gh-pages/examples/vanilla-es6
 
 ## Installation
