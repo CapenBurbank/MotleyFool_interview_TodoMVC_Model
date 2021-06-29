@@ -91,6 +91,15 @@ In the footer of the todo list, you originally saw the following filters to sele
 
 <br>
 
+I implemented the Priority filter, so when the user selects priority to filter by, the list will be sorted in descending order, with the most urgent items  
+appearing at the top, and the lowest priority items at the bottom. By default, items without a priority value greater than zero, will render below the lowest   
+priority items.
+
+<br>
+
+While in the priority filter, if you edit any item's priority, the list will be re-organized and the edited item will be organized according to its updated  
+priority property value.
+
 
 
 
