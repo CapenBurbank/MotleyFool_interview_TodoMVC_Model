@@ -63,12 +63,34 @@ I updated the items to contain a property of priority so each todo item now look
 <br>
 
 ```
-  item {
-    id: Date.now(),
-    completed: false,
-    title: string,
-    priority: number,
-  }
+item: {
+  id: Date.now(),
+  completed: false,
+  title: string,
+  priority: number, (defaults to 0)
+}
 
 ```
+<br>
+<br>
+
+By selecting a priority for each item, the user will update the local storage for that specific item's priority (it will be set to 1, 2, or 3 being the highest).
+
+<br>
+<br>
+
+Once the priority is adjusted, the user will see a noticeable colored dot applied to to the todo item next to the priroity icon, which is based on the priority   
+that was chosen for that specific todo item.
+
+
+
+
+
+
+
+
+
+
+
+
 
