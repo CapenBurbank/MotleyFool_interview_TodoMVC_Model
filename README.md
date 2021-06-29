@@ -72,16 +72,24 @@ item: {
 
 ```
 <br>
-<br>
 
 By selecting a priority for each item, the user will update the local storage for that specific item's priority (it will be set to 1, 2, or 3 being the highest).
 
-<br>
 <br>
 
 Once the priority is adjusted, the user will see a noticeable colored dot applied to to the todo item next to the priroity icon, which is based on the priority
 that was chosen for that specific todo item.
 
+<br>
+<br>
+
+In the footer of the todo list, you originally saw the following filters to select:
+
+<br>
+
+> All, Active, Completed, Clear Completed(if some items were completed)
+
+<br>
 
 
 
