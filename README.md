@@ -1,6 +1,6 @@
 ## Capen Burbank, TodoMVC implemented with Vanilla-ES6
 
-> Link to original code: https://todomvc.com/examples/vanilla-es6/ 
+> Link to original application using vanilla-es6: https://todomvc.com/examples/vanilla-es6/ 
 
 <br>
 
