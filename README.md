@@ -18,8 +18,14 @@ Clone the repository into your code editor, you should see an index.html file, r
 In the updated version of the TodoMVC I have implemented the priority feature. If you click on the icon to the right, that looks like a document with an exclamation 
 point next to it, you will find a small dropdown box titled priority with three buttons.
 <br>
+<br>
 These buttons are red, yellow, and green circles, that are labeled with text identifying their values
 <br>
+<br>
 red button: High  
+<br>
 yellow button: Medium  
+<br>
 green button: Low
+<br>
+<br>
