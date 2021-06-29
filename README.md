@@ -40,13 +40,29 @@ green button: Low
 <br>
 <br>
 
-The todo items you enter, are objects sent to local storage in your browser and stored in an array. 
+The todo items you enter, are objects sent to local storage in your browser and stored in an array. Each object orginally conatined the properties 
 
 <br>
 <br>
 
-```item {
+id: Date.now()  
+<br>
+completed: boolean(automatically sets to false)  
+<br>
+title: string (value entered from input, can be edited individually)  
+<br>
 
+I updated the items to contain a property of priority so each todo item now looks like the following:
+
+<br>
+<br>
+
+```
+  item {
+    id: Date.now(),
+    completed: false,
+    title: string,
+    
   }
 
 ```
