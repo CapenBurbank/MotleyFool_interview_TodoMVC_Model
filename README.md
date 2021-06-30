@@ -103,8 +103,7 @@ priority property value.
 
 <br>
 
-Honestly, I'm not exactly sure what my 'style' of coding is or if I have one. However I do know that I love organization and consistency(probably from the years
-as a pastry chef haha!).    
+If I were to describe my coding style, I would say that it's very well thought out and organized. I probably code this way from the years being a pastry chef haha!    
 But when I read through the original source code, and thought of a plan on how to implement the priority feature. I spent some time reading through all the
 files in the `src` folder, and wanted to have a good understanding of how this MVC worked. Once I had a good understanding of the application, I wrote my
 added features in the same style, utilizing the same methods, event listeners, classes, and update methods. 
