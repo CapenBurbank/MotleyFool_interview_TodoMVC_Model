@@ -107,7 +107,7 @@ If I were to describe my coding style, I would say that it's very well thought o
 But when I read through the original source code, and thought of a plan on how to implement the priority feature. I spent some time reading through all the
 files in the `src` folder, and wanted to have a good understanding of how this MVC worked. Once I had a good understanding of the application, I wrote my
 added features in the same style, utilizing the same methods, event listeners, classes, and update methods. 
-My goal was to add my code into the various files, and while reading through it, you wouldn't know somebody else wrote this three years after it's original
+My goal was to add my code into the various files, and while reading through it, you wouldn't know somebody else updated this three years after it's original
 publish date on github! I believe I truly achieved that, and I would definitely say that's what makes this code unique for me!
 
 <br>
@@ -117,7 +117,7 @@ publish date on github! I believe I truly achieved that, and I would definitely 
 
 <br>
 
-I'm definitely happy with the implementation of my features, however, I think I could definitely build on top of them. For example, it's nice that users have the ability to choose priority of an item, and get a list organized by their urgency, unfortunately the user currently doesn't have the ability to remove the priority of an item. So if you did not want to use the priority feature, and you accidentally set the priority of an item, you would not be able to remove it, and people may have the preference of not wanting to have priority set. So I definitely beilieve that I could improve upon that functionality of the priority features.
+I'm definitely happy with the implementation of my features, however, I think I could definitely build on top of them. For example, it's nice that users have the ability to choose priority of an item, and get a list of items organized by their urgency, unfortunately the user currently doesn't have the ability to remove the priority of an item. So if you did not want to use the priority feature, and you accidentally set the priority of an item, you would not be able to remove it, and people may have the preference of not wanting to have priority set. So I definitely beilieve that I could improve upon that functionality in the priority features.
 
 <br>
 
