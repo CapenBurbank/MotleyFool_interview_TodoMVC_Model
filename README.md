@@ -129,7 +129,7 @@ I'm definitely happy with the implementation of my features, however, I think I 
 
 ```
 /*
-*Takes a parameter of who the message is sent to, and displays message to receiver
+*Takes a parameter of who the message is sent to and parameter of receiver, displays message to receiver
 *
 *@param {string} message
 *@param {string} receiver
