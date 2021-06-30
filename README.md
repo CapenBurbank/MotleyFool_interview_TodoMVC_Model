@@ -10,21 +10,19 @@
 
 Please have the latest version of NodeJS installed, and make sure npm is installed globally. Then clone the repository into your code editor. You should see an index.html file. Next right click and copy the path, then paste it and load that path in your browser.
 
-## Implemented Feature
+## Description of Implemented Feature
 
 > Feature: I have added a prioritization feature to the todo list application. This feature allows you to prioritze items, and view a list of sorted tasks in descending priority, where the most urgent
 >          items are rendered at the top of the list, and the least urgent items are rendered at the bottom of the list.
 <br>
 
-If you click on the icon to the right, that looks like a document with an exclamation 
-point next to it, you will find a small dropdown box titled priority with three buttons.
+## Instructions for Using Implemented Feature
 
-<br>
-<br>
+<br> 
 
-These buttons are red, yellow, and green circles, that are labeled with text identifying their values
+To begin prioritizing your tasks, simply click on the "page-exclamation-mark" icon on the right. A dropdown box with three priority options will appear.
+These buttons are red, yellow, and green circles, that are labeled with text identifying their values.
 
-<br>
 <br>
 
 > red button: High
