@@ -121,9 +121,43 @@ publish date on github! I believe I truly achieved that, and I would definitely 
 
 I'm definitely happy with the implementation of my features, however, I think I could definitely build on top of them. For example, it's nice that users have the ability to choose priority of an item, and get a list organized by their urgency, unfortunately the user currently doesn't have the ability to remove the priority of an item. So if you did not want to use the priority feature, and you accidentally set the priority of an item, you would not be able to remove it, and people may have the preference of not wanting to have priority set. So I definitely beilieve that I could improve upon that functionality of the priority features.
 
+<br>
 
+## Final Notes
 
+<br>
 
+```
+/*
+*Takes a parameter of who the message is sent to, and displays message to receiver
+*
+*@param {string} message
+*@param {string} receiver
+*/
+
+const send_Nice_Thank_You_Message = (receiver, message) => {
+  console.log(receiver);
+  console.log(message);
+}
+```
+```
+
+const send_Nice_Thank_You_Message( 
+
+"Dear Potential Hiring Manager" ,
+
+"
+  Thank you so much for reading through everything and giving me a shot at this job. Programming is definitely different from being a pastry chef, but I love it 
+  just as much if not more! Getting a job like this would truly be life changing for me, and I truly hope you consider me a good candidate for this position!
+  Thank you again so much again for evaluating me, and have a great day!
+  
+  Warm Regards,
+  
+  Capen Burbank
+"
+);
+
+```
 
 
 
