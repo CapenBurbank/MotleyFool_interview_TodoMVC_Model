@@ -8,15 +8,15 @@
 
 ## Installation
 
-Please have the latest version of NodeJS installed, and make sure npm is installed globally. Then clone the repository into your code editor, you should see an index.html file, right click and copy path, then paste and load that path in your browser.
+Please have the latest version of NodeJS installed, and make sure npm is installed globally. Then clone the repository into your code editor. You should see an index.html file. Next right click and copy the path, then paste it and load that path in your browser.
 
 ## Implemented Feature
 
-> Feature: Adding priority to todo list items, and having the functionality to view a list sorted in descending priority, where the most urgent
->          items will render at the top of the list, and the least urgent items will render at the bottom of the list.
+> Feature: I have added a prioritization feature to the todo list application. This feature allows you to prioritze items, and view a list of sorted tasks in descending priority, where the most urgent
+>          items are rendered at the top of the list, and the least urgent items are rendered at the bottom of the list.
 <br>
 
-In the updated version of the TodoMVC I have implemented the priority feature. If you click on the icon to the right, that looks like a document with an exclamation 
+If you click on the icon to the right, that looks like a document with an exclamation 
 point next to it, you will find a small dropdown box titled priority with three buttons.
 
 <br>
