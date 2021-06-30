@@ -76,13 +76,12 @@ item: {
 By selecting a priority for each item, the user will update the local storage for that specific item's priority (it will be set to 1, 2, or 3 being the highest).
 <br>
 
-Once the priority is adjusted, the user will see a large colored dot applied to the todo item next to the priroity icon, which is based on the priority
-that was chosen for that specific todo item.
+Once the priority is adjusted, the user will see a large colored dot applied to the todo item next to the priroity icon, which indicated the priority
+that was chosen by the user for the specific task.
 
 <br>
 
-
-In the footer of the todo list, you originally saw the following filters to select:
+In the original template the following filters could be located in the footer of the application to sort the list according to their title:
 
 <br>
 
@@ -96,28 +95,28 @@ priority items.
 
 <br>
 
-While in the priority filter, if you edit any item's priority, the list will be re-organized and the edited item will be organized according to its updated  
+While in the priority filter, if you edit any item's priority, the list will be re-organized and the edited item will be placed according to its updated  
 priority property value.
 
 ## Highlights That Make This Project Uniquely Mine
 
 <br>
 
-If I were to describe my coding style, I would say that it's very well thought out and organized. I probably code this way from the years being a pastry chef haha!    
-But when I read through the original source code, and thought of a plan on how to implement the priority feature. I spent some time reading through all the
-files in the `src` folder, and wanted to have a good understanding of how this MVC worked. Once I had a good understanding of the application, I wrote my
+If I were to describe my coding style, I would say that it's very well thought out and organized. I probably code this way from many years of being a pastry chef haha!    
+
+Before rushing to implement my features, I wanted to make sure that I had a 
+thorough understanding of how the application worked. Once I felt that I had a good understanding of the program, I wrote my
 added features in the same style, utilizing the same methods, event listeners, classes, and update methods. 
-My goal was to add my code into the various files, and while reading through it, you wouldn't know somebody else updated this three years after it's original
-publish date on github! I believe I truly achieved that, and I would definitely say that's what makes this code unique for me!
+My goal was to seemlessely add my code into the various files, so that anyone reading it, couldn't tell that someone else, other than the original creator updated this code, three years after it's original
+publish date on github! I would say that my careful planning, deliberate organization, and seemless integration of my code with the original author's, is what makes this code uniquely mine!
 
 <br>
-
 
 ## Possible Areas of Improvement
 
 <br>
 
-I'm definitely happy with the implementation of my features, however, I think I could definitely build on top of them. For example, it's nice that users have the ability to choose priority of an item, and get a list of items organized by their urgency, unfortunately the user currently doesn't have the ability to remove the priority of an item. So if you did not want to use the priority feature, and you accidentally set the priority of an item, you would not be able to remove it, and people may have the preference of not wanting to have priority set. So I definitely beilieve that I could improve upon that functionality in the priority features.
+I'm definitely happy with the implementation of my features, however, I think I could definitely build on them. For example, it's nice that users have the ability to choose the priority of an item, and get a list of items organized by their urgency. However, unfortunately, the user currently doesn't have the ability to remove the priority of an item. So if you did not want to use the priority feature, and you accidentally set the priority of an item, you would not be able to remove it, and people may have the preference of not wanting to have a priority set. So I definitely beilieve that I could improve upon that functionality in the priority features.
 
 <br>
 
@@ -142,13 +141,14 @@ const send_Nice_Thank_You_Message = (receiver, message) => {
 
 send_Nice_Thank_You_Message( 
 
-`Dear Potential Hiring Manager` ,
+`Dear Hiring Manager` ,
 
 `
-  Thank you so much for reading through and giving me the chance to work at the Motley Fool. 
-  Programming is definitely different from being a pastry chef, but I love it 
-  just as much if not more! Getting a job like this would truly be life changing for me, 
-  and I hope you consider me a good candidate for this position!
+  Thank you so much for reviewing my coding project!
+  I am extreamly thrilled to be consered to become a member of The Motely Fool Team! 
+  I hope to show you how my skills in my previous life as a pastry chef, make me a great future developer, worthy of joining your team!
+  Getting a job like this would truly be life changing for me, 
+  so I sincereley hope you find me a good candidate for this position!
   Thank you again so much for evaluating me, and have a great day!
   
   Warm Regards,
