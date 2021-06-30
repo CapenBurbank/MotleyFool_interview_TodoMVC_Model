@@ -12,7 +12,7 @@ Please have the latest version of NodeJS installed, and make sure npm is install
 
 ## Description of Implemented Feature
 
-> Feature: I have added a prioritization feature to the todo list application. This feature allows you to prioritze items, and view a list of sorted tasks in descending priority, where the most urgent
+> Feature: I have added a prioritization feature to the todo list application. This feature allows you to prioritze items, under three different levels urgency and also view a list of sorted tasks in descending priority, where the most urgent
 >          items are rendered at the top of the list, and the least urgent items are rendered at the bottom of the list.
 <br>
 
@@ -21,7 +21,7 @@ Please have the latest version of NodeJS installed, and make sure npm is install
 <br> 
 
 To begin prioritizing your tasks, simply click on the "page-exclamation-mark" icon on the right. A dropdown box with three priority options will appear.
-These buttons are red, yellow, and green circles, that are labeled with text identifying their values.
+These buttons are red, yellow, and green circles, that are labeled with text identifying their values. In order to view the list of tasks in order of descending urgency, please click the link labled "Priority" located in the footer of the application.
 
 <br>
 
@@ -37,6 +37,8 @@ These buttons are red, yellow, and green circles, that are labeled with text ide
 
 <br>
 <br>
+
+## Changes Made to Original Application 
 
 The todo items you enter, are objects sent to local storage in your browser and stored in an array. Each object orginally conatined the properties 
 
