@@ -98,6 +98,10 @@ priority items.
 While in the priority filter, if you edit any item's priority, the list will be re-organized and the edited item will be placed according to its updated  
 priority property value.
 
+<br>
+
+As just a quick side note, in the original vanilla-es6 application, there was a small bug. If a user chose to write a very long task in their list, it would actually overlap the "X" button used to remove that item. I just changed the max-width of the item's text so it would fit more appropriately in the application. 
+
 ## Highlights That Make This Project Uniquely Mine
 
 <br>
