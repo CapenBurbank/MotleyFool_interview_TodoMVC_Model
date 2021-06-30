@@ -142,9 +142,9 @@ const send_Nice_Thank_You_Message = (receiver, message) => {
 
 const send_Nice_Thank_You_Message( 
 
-"Dear Potential Hiring Manager" ,
+`Dear Potential Hiring Manager` ,
 
-"
+`
   Thank you so much for reading through and giving me the chance to work at the Motley Fool. 
   Programming is definitely different from being a pastry chef, but I love it 
   just as much if not more! Getting a job like this would truly be life changing for me, 
@@ -154,7 +154,7 @@ const send_Nice_Thank_You_Message(
   Warm Regards,
   
   Capen Burbank
-"
+`
 );
 
 ```
