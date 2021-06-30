@@ -140,7 +140,7 @@ const send_Nice_Thank_You_Message = (receiver, message) => {
 ```
 ```
 
-const send_Nice_Thank_You_Message( 
+send_Nice_Thank_You_Message( 
 
 `Dear Potential Hiring Manager` ,
 
