@@ -145,9 +145,11 @@ const send_Nice_Thank_You_Message(
 "Dear Potential Hiring Manager" ,
 
 "
-  Thank you so much for reading through everything and giving me a shot at this job. Programming is definitely different from being a pastry chef, but I love it 
-  just as much if not more! Getting a job like this would truly be life changing for me, and I truly hope you consider me a good candidate for this position!
-  Thank you again so much again for evaluating me, and have a great day!
+  Thank you so much for reading through giving me the chance to work at the Motley Fool. 
+  Programming is definitely different from being a pastry chef, but I love it 
+  just as much if not more! Getting a job like this would truly be life changing for me, 
+  and I hope you consider me a good candidate for this position!
+  Thank you again so much for evaluating me, and have a great day!
   
   Warm Regards,
   
