@@ -8,7 +8,7 @@
 
 ## Installation
 
-Clone the repository into your code editor, you should see an index.html file, right click and copy path, then paste and load that path in your browser.
+Please have the latest version of NodeJS installed, and make sure npm is installed globally. Then clone the repository into your code editor, you should see an index.html file, right click and copy path, then paste and load that path in your browser.
 
 ## Implemented Feature
 
